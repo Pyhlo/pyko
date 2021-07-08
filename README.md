@@ -10,4 +10,6 @@ Well if anyone want to copy anything from here, change it or just use it as some
 
 It's for every try I'll try to make of a website. (All of them might not be the same)
 
+# My profile statistics if anyone cares
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyhlo&theme=radical"/>
