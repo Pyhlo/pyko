@@ -2,7 +2,20 @@ body {
     background-color: bisque;
 }
 
+#jsTest {
+    font-size: 50px;
+}
+
+.bigButton:hover {
+    background-color:aquamarine;
+    color: white;
+    
+}
 .bigButton {
     font-size: 25px;
-    color: black;
+    background-color: turquoise;
+    border: none;
+    border-radius: 5px;
+    color: #333;
+    padding: 15px 32px;
 }
